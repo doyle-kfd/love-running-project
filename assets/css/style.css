@@ -144,6 +144,17 @@ main {
     margin: 5px 0;
 }
 
+/* Gallery Page */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 0;
+}
+
+
 /* Footer */
 #social-networks {
     text-align: center;
